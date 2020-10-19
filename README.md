@@ -1,6 +1,6 @@
 # New-York-City-Taxi-Fare-Prediction
 
-Machine Learning project. We worked here as a team. My other teammates are: [Samiul Islam](), Afia Abedin, Rownak Jahan Nowrin and Shuvo.
+Machine Learning project. We worked here as a team. My other teammates are: [Samiul Islam](https://github.com/cosmicray001), Afia Abedin, Rownak Jahan Nowrin and Shuvo.
 
 ![New_York_City_Taxi_Fare_Prediction-page-001](https://user-images.githubusercontent.com/35567854/96409947-f33f1200-1207-11eb-8f79-7d91d75729c9.jpg)
 ![New_York_City_Taxi_Fare_Prediction-page-002](https://user-images.githubusercontent.com/35567854/96409956-f76b2f80-1207-11eb-9394-9b726401be72.jpg)
